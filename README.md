@@ -1,5 +1,4 @@
-# StringH
- Partial implementation of string.h lib (Team/Teamlead).
+## 07.12.2022
 
-The first team project of the core education program. 
-Partially implemented string.h library, including sprintf with some options.
+## string.h
+- Partial implementation of string.h lib. The work was carried out as a team.
